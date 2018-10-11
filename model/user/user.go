@@ -1,7 +1,7 @@
 package user
 
 import (
-	"Go-web-test/chitchat/model/sql"
+	"github.com/chitchat/model/sql"
 	"fmt"
 )
 
