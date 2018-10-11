@@ -1,7 +1,7 @@
 package controller
 
 import (
-	sess "Go-web-test/chitchat/model/session"
+	sess "github.com/chitchat/model/session"
 	"fmt"
 	"html/template"
 	"net/http"
