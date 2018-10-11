@@ -1,9 +1,9 @@
 package controller
 
 import (
-	sess "Go-web-test/chitchat/model/session"
-	"Go-web-test/chitchat/model/sql"
-	"Go-web-test/chitchat/model/user"
+	sess "github.com/chitchat/model/session"
+	"github.com/chitchat/model/sql"
+	"github.com/chitchat/model/user"
 	"fmt"
 	"net/http"
 	"strconv"
