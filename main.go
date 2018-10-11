@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Go-web-test/chitchat/config"
-	"Go-web-test/chitchat/controller"
-	_ "Go-web-test/chitchat/model/session"
-	_ "Go-web-test/chitchat/model/sql"
-	_ "Go-web-test/chitchat/model/talkInfo"
+	"github.com/chitchat/config"
+	"github.com/chitchat/controller"
+	_ "github.com/chitchat/model/session"
+	_ "github.com/chitchat/model/sql"
+	_ "github.com/chitchat/model/talkInfo"
 	"fmt"
 	"net/http"
 	"time"
