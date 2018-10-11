@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"Go-web-test/chitchat/model/talkInfo"
+	"github.com/chitchat/model/talkInfo"
 	"fmt"
 	"net/http"
 	"strconv"
